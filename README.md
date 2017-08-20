@@ -1,31 +1,11 @@
 # Homework #4
 
-## Instructions
----
-1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Callback Functions
-	* Closure
-	* `arguments`
-	* Recursion
-	* `prototype`
-	* Constructors
+	* Callback Functions : Is a logic which is called after the current function finish.
+	* Closure : Is a pice of code that has it's own scope or world but this can access to external information.
+	* `arguments` : is an array of "elements" is pass to a function.
+	* Recursion : Is when a fucntion call its self until a condition is done or in an infinit loop
+	* `prototype` : Is a property and represents the Object prototype object.
+	* Constructors : Is a special method for creating and initializing an object.
 
-
-2. Fork and clone this repo.  When you need to commit use the following commands.
-		
-	* `git status`
-	* `git add --all`
-	* `git status`
-	* `git commit -m "your commit message"`
-	* `git push origin master`
-
-3. Install dependencies using `npm install`.  Run tests using `npm test`.
-
-4. Make the tests pass!
-
-
-
-#### Congratulations on finishing Homework #4!
-
-For more information about Lambda School's six month CS program visit: https://lambdaschool.com
